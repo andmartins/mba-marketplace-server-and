@@ -15,7 +15,7 @@
 git clone https://github.com/andmartins/mba-marketplace-server-and
 
 # 2. Entrar na pasta
-cd marketplace-mba
+cd mba-marketplace-server-and
 
 # 3. Instalar dependências
 npm i
